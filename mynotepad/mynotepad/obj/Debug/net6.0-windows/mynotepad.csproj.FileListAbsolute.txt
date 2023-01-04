@@ -1,0 +1,17 @@
+D:\c#\Day11 window form\mynotepad\mynotepad\bin\Debug\net6.0-windows\mynotepad.exe
+D:\c#\Day11 window form\mynotepad\mynotepad\bin\Debug\net6.0-windows\mynotepad.deps.json
+D:\c#\Day11 window form\mynotepad\mynotepad\bin\Debug\net6.0-windows\mynotepad.runtimeconfig.json
+D:\c#\Day11 window form\mynotepad\mynotepad\bin\Debug\net6.0-windows\mynotepad.dll
+D:\c#\Day11 window form\mynotepad\mynotepad\bin\Debug\net6.0-windows\mynotepad.pdb
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.csproj.AssemblyReference.cache
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.Form1.resources
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.csproj.GenerateResource.cache
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.AssemblyInfoInputs.cache
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.AssemblyInfo.cs
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.csproj.CoreCompileInputs.cache
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.dll
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\refint\mynotepad.dll
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.pdb
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\mynotepad.genruntimeconfig.cache
+D:\c#\Day11 window form\mynotepad\mynotepad\obj\Debug\net6.0-windows\ref\mynotepad.dll
